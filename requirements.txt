@@ -1,0 +1,7 @@
+resemblyzer
+pyaudio
+numpy
+pandas
+xlsxwriter
+streamlit
+twilio

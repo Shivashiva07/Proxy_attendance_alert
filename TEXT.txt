@@ -1,0 +1,4 @@
+cd "C:\Users\shiva\Documents\PROXY ATTENDANCE Checker"
+python batch_attendance.py
+streamlit run dashboard.py
+
