@@ -19,7 +19,7 @@ A voice-based attendance system that detects proxy attendance using voice recogn
 ```bash
 pip install -r requirements.txt
 python register_students.py
-python attendance_checker.py
+python batch_attendance.py
 streamlit run dashboard.py
 ```
 
